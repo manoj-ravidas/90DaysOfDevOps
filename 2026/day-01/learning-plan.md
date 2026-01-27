@@ -41,4 +41,8 @@ Become more confident in production environments
 That’s why I decided to start learning DevOps & Cloud.
 
 # Where do you want to reach?
-I want to become a skilled DevOps/Cloud Engineer, work on real production systems, and grow into a senior role over time.
+I want to become a skilled DevOps/Cloud Engineer, work on real production systems, and grow into a senior role over time.i
+
+# How you will stay consistent every single day?
+I will stay consistent by daily practice, small achievable goals, and learning something new every day.
+
