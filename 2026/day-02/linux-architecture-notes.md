@@ -16,7 +16,7 @@ This is the foundation for all troubleshooting you will do as a DevOps engineer.
 
 ---
 
-# **Core Components of Linux**
+# Core Components of Linux
 
 # Kernel
 The kernel is the core of Linux. It manages hardware resources such as CPU, memory, disk, and network, and acts as a bridge between hardware and applications.
