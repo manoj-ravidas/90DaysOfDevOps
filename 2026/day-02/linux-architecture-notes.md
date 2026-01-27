@@ -26,3 +26,16 @@ User space is where users and applications run. It includes the shell, system co
 
 **Init / systemd**
 Init or systemd is the first process that starts when the system boots. It manages system services, starts them at boot time, and keeps the system running smoothly.
+
+# How processes are created and managed
+
+A process is created when we run a command or start a program.
+Linux creates a process, gives it a PID, and starts running it.
+
+Linux manages processes by:
+
+Deciding which process runs first
+
+Giving CPU time to each process
+
+Controlling process states like running or sleeping
