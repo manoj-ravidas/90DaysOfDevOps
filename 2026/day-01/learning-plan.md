@@ -1,6 +1,6 @@
 ## Task
 
-Today’s goal is to set the foundation for your DevOps journey.
+**Today’s goal is to set the foundation for your DevOps journey**.
 
 I will create a 90-day personal DevOps learning plan that clearly defines:
 
