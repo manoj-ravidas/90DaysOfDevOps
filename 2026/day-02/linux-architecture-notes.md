@@ -18,11 +18,11 @@ This is the foundation for all troubleshooting you will do as a DevOps engineer.
 
 # Core Components of Linux
 
-# Kernel
+**Kernel**
 The kernel is the core of Linux. It manages hardware resources such as CPU, memory, disk, and network, and acts as a bridge between hardware and applications.
 
-# User Space
+**User Space**
 User space is where users and applications run. It includes the shell, system commands, and application software. User space cannot access hardware directly and communicates with it through the kernel.
 
-# Init / systemd
+**Init / systemd**
 Init or systemd is the first process that starts when the system boots. It manages system services, starts them at boot time, and keeps the system running smoothly.
