@@ -1,4 +1,4 @@
-##Task
+## Task
 
 Today’s goal is to set the foundation for your DevOps journey.
 
@@ -15,7 +15,7 @@ This is your career execution blueprint for the next 90 days.
 ---
 # What is your understanding of DevOps and Cloud Engineering?
 
-- Devops is set of practice that helps development and oprationteams work together by improving collabration and automation 
+- **Devops** is set of practice that helps development and oprationteams work together by improving collabration and automation 
 the main goal of devops is faster delivery better quality and stable applicationdeployments through the automation.
 it help to faster automation
 
