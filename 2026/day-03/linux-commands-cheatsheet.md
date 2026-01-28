@@ -7,8 +7,7 @@ You will create a cheat sheet of commands focused on:
     Process management
     File system
     Networking troubleshooting
-
---- 
+ 
 # Process management
 ip a              # Show IP addresses
 ping google.com   # Check network connectivity
