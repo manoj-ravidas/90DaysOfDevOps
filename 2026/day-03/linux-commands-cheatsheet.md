@@ -104,14 +104,14 @@
 2. **Process**: `ps aux | grep <name>` - Find specific running process
 3. **Network**: `netstat -tulpn` - Check what's listening on which port
 4. **Disk**: `df -h` - Quick disk space check
-5. **Service**: `systemctl restart <service>` - Restart a failing service
+5. **Service**: `systemctl restart <service>` - Restart a failing service.
 
 ### Pro Tips:
 - Use `|` (pipe) to chain commands: `ps aux | grep nginx`
 - Use `>` to redirect output to file: `ls -l > output.txt`
 - Use `>>` to append to file: `echo "log" >> file.log`
 - Use `&&` to run commands sequentially: `cd /tmp && ls`
-
+  
 ---
 
 **Created for**: 90 Days of DevOps Challenge - Day 03  
