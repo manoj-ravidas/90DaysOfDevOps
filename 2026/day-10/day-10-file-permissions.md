@@ -4,6 +4,7 @@
 **Focus:** Mastering file creation, reading, and permission management in Linux
 
 ---
+<img width="1014" height="724" alt="image" src="https://github.com/user-attachments/assets/470648a7-9ea2-497e-93c1-125b715abf67" />
 
 ## Challenge Overview
 
