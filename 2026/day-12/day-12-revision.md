@@ -59,9 +59,8 @@ ps aux --sort=-%cpu | head -10
 #### Command 2: Check Service Status
 ```bash
 systemctl status ssh
-<img width="1423" height="727" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ff9f2808-dc6c-4f8f-94f1-2ae00309a819" />
-
 ```
+<img width="1423" height="727" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ff9f2808-dc6c-4f8f-94f1-2ae00309a819" />
 
 **What I observed today:**
 - SSH service active and running since boot
