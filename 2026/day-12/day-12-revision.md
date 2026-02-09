@@ -41,9 +41,12 @@
 ### Command Re-runs from Days 04–05
 
 #### Command 1: Check Running Processes
+
 ```bash
 ps aux --sort=-%cpu | head -10
 ```
+<img width="1215" height="534" alt="image" src="https://github.com/user-attachments/assets/16fd628b-c5ff-43c7-aab0-9de5b2ab9a68" />
+
 
 **What I observed today:**
 - Firefox consuming most CPU (3.2%) - expected for active browser
@@ -56,6 +59,8 @@ ps aux --sort=-%cpu | head -10
 #### Command 2: Check Service Status
 ```bash
 systemctl status ssh
+<img width="1423" height="727" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ff9f2808-dc6c-4f8f-94f1-2ae00309a819" />
+
 ```
 
 **What I observed today:**
