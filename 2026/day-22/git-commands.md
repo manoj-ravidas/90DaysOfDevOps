@@ -44,9 +44,17 @@ git commit -m "Initial commit"
 
 # git log
 Shows commit history.
+<img width="939" height="689" alt="commit1" src="https://github.com/user-attachments/assets/ac04f732-cbb9-4ca2-9fcb-4b15711e758c" />
+
+<img width="6<img width="684" height="727" alt="commit" src="https://github.com/user-attachments/assets/ed464687-78b3-4d21-89fa-f14389e04c56" />
+81" height="725" alt="oneline-commit" src="https://github.com/user-attachments/assets/8071d3a7-26b0-4415-bad9-d097ee2bc85b" />
+
+
 
 Example:
 git log
+
+
 
 # git log --oneline
 Shows compact history.
