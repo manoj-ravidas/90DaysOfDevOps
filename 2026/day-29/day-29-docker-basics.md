@@ -28,3 +28,5 @@ docker rm <container>
 docker logs <container>
 
 docker exec -it <container> bash
+<img width="1173" height="305" alt="image" src="https://github.com/user-attachments/assets/09a38803-ed01-4438-af7e-a20974c8bec5" />
+
