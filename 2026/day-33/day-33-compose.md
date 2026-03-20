@@ -41,4 +41,5 @@ Compose simplifies multi-container setup and networking.<img width="1544" height
 <img width="1565" height="353" alt="Screenshot_3" src="https://github.com/user-attachments/assets/2d03b289-16e6-4286-a7a0-5265be963d3f" />
 <img width="1555" height="357" alt="Screenshot_2" src="https://github.com/user-attachments/assets/c886cacb-f045-4f45-bbdc-a82de3a20bd0" />
 <img width="1363" height="506" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f6436ead-dfa3-4615-9790-82552aa43e84" />
+<img width="1295" height="864" alt="image" src="https://github.com/user-attachments/assets/7a5ad80c-ac79-49e7-8c85-f62d6eb621fa" />
 
