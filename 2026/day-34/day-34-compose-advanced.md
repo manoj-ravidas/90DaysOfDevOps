@@ -257,4 +257,8 @@ Successfully built and enhanced a **production-like multi-container setup** usin
 ---
 
 ✅ This setup closely resembles real-world DevOps environments.
+![Uploading image.png…]()
+
+<img width="1583" height="827" alt="image" src="https://github.com/user-attachments/assets/4eaa095d-ec44-446c-b72a-ae1c1a6e3f87" />
+
 
